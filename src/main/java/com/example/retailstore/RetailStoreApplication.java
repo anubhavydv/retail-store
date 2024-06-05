@@ -1,4 +1,5 @@
-package com.example.retailstore;
+#package com.example.retailstore;
+package com.example.retail;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
